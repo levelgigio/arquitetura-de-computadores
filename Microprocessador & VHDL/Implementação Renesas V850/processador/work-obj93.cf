@@ -1,0 +1,43 @@
+v 4
+file . "processor_tb.vhdl" "09b79596250029173edd959c5aeb02b520cfc8b0" "20190719114717.040":
+  entity processor_tb at 1( 0) + 0 on 37;
+  architecture a_processor_tb of processor_tb at 7( 106) + 0 on 38;
+file . "control_unit.vhdl" "13be175a377e42bf1afee51f353af2e05d805707" "20190719114716.831":
+  entity control_unit at 1( 0) + 0 on 33;
+  architecture a_control_unit of control_unit at 21( 770) + 0 on 34;
+file . "mux_2x1_3_bits.vhdl" "dcb5c5e217a809ca4a2d708f92884d7c7fb0ef92" "20190719114716.665":
+  entity mux_2x1_3_bits at 1( 0) + 0 on 29;
+  architecture a_mux_2x1_3_bits of mux_2x1_3_bits at 13( 266) + 0 on 30;
+file . "state_machine.vhdl" "2e05de53ced85e964641b06abb2bfab0aa512f76" "20190719114716.500":
+  entity state_machine at 1( 0) + 0 on 25;
+  architecture a_state_machine of state_machine at 13( 230) + 0 on 26;
+file . "pc.vhdl" "7935663a186f946c314ce204fb6b5f68e21686f7" "20190719114716.332":
+  entity pc at 1( 0) + 0 on 21;
+  architecture a_pc of pc at 15( 276) + 0 on 22;
+file . "register_bank.vhdl" "bf6860098a0aa2c4dcc3d98ccee48a494a3c2f43" "20190719114716.138":
+  entity register_bank at 1( 0) + 0 on 17;
+  architecture a_register_bank of register_bank at 18( 534) + 0 on 18;
+file . "register_8_bits.vhdl" "10d97b0349d74d063f11da2ddd257145e811ba1e" "20190719114715.962":
+  entity register_8_bits at 1( 0) + 0 on 13;
+  architecture a_register_8_bits of register_8_bits at 14( 277) + 0 on 14;
+file . "register_7_bits.vhdl" "de4947f7e851b9987d568b363d7bcdf9f61456d6" "20190719114715.855":
+  entity register_7_bits at 1( 0) + 0 on 11;
+  architecture a_register_7_bits of register_7_bits at 14( 277) + 0 on 12;
+file . "register_1_bits.vhdl" "53065b3f93ad7cf1b3cf3e42fe7ac614f0ea0522" "20190719114716.049":
+  entity register_1_bits at 1( 0) + 0 on 15;
+  architecture a_register_1_bits of register_1_bits at 14( 255) + 0 on 16;
+file . "ula.vhdl" "371c4a616cfea6e8616799105f29a008c1b27e26" "20190719114716.229":
+  entity ula at 1( 0) + 0 on 19;
+  architecture a_ula of ula at 13( 322) + 0 on 20;
+file . "rom.vhdl" "25e10b1a8884284cc311e3b88715a0fe02fe93c9" "20190719114716.415":
+  entity rom at 1( 0) + 0 on 23;
+  architecture a_rom of rom at 12( 214) + 0 on 24;
+file . "ram.vhdl" "f26d7a27f7ac59198c023dee50bc9eaec1f86407" "20190719114716.584":
+  entity ram at 1( 0) + 0 on 27;
+  architecture a_ram of ram at 14( 276) + 0 on 28;
+file . "mux_4x1_8_bits.vhdl" "80605657598993ba9b95cecb61e7c86a20ac461c" "20190719114716.749":
+  entity mux_4x1_8_bits at 1( 0) + 0 on 31;
+  architecture a_mux_4x1_8_bits of mux_4x1_8_bits at 15( 359) + 0 on 32;
+file . "processor.vhdl" "583459fd9dfd027592cc6e6b8c8ce156f72a6e53" "20190719114716.923":
+  entity processor at 1( 0) + 0 on 35;
+  architecture a_processor of processor at 10( 156) + 0 on 36;
